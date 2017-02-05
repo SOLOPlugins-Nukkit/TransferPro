@@ -1,0 +1,14 @@
+name: TransferPro
+version: "0.0.1"
+api: ["1.0.0"]
+author: solo
+main: solo.transferpro.Main
+commands:
+  서버:
+    usage: /서버 [args...]
+    description: 서버 명령어
+    permission: OP
+  서버이동버튼:
+    usage: /서버이동버튼 [args...]
+    description: 서버이동버튼 명령어
+    permission: OP
